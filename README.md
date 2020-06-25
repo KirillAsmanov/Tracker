@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/KirillAsmanov/job4j_junior.svg?branch=master)](https://travis-ci.org/KirillAsmanov/job4j_junior)
-[![codecov](https://codecov.io/gh/KirillAsmanov/job4j_junior/branch/master/graph/badge.svg)](https://codecov.io/gh/KirillAsmanov/job4j_junior)
+[![Build Status](https://travis-ci.org/KirillAsmanov/Tracker.svg?branch=master)](https://travis-ci.org/KirillAsmanov/Tracker)
+[![codecov](https://codecov.io/gh/KirillAsmanov/Tracker/branch/master/graph/badge.svg)](https://codecov.io/gh/KirillAsmanov/Tracker)
 # Tracker
 Repository for Tracker
