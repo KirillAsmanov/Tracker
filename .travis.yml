@@ -6,6 +6,12 @@ codecov: true
 
 sudo: false
 
+services:
+  - postgresql
+
+before_install:
+  - psql -c 'create database tracker;' -U postgres
+
 env:
   global:
     - CODECOV_TOKEN="e13ef9ec-aae4-486b-b7c6-c6c2a66c82be"
